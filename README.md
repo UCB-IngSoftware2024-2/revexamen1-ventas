@@ -6,10 +6,11 @@ Escribe, en papel, la implementación del método descrito abajo siguiendo TDD (
 El programa/método a implementar:
 Queremos desarrollar un método que forma parte de un sistema de una tienda en línea que vende productos en grandes volúmenes. La tienda ofrece descuentos basados en la cantidad de productos comprados para incentivar compras mayores. Los descuento se basan en la siguiente escala:
 1 unidad: Precio normal (sin descuento).
-2-4 unidades: 5% de descuento sobre el precio total.
 5-9 unidades: 10% de descuento sobre el precio total.
 10 o más unidades: 20% de descuento sobre el precio total.
+
 Tu tarea es desarrollar un método o función: calcularPrecioTotal(cantidad, precioUnidad)
+
 El método devuelve el precio total después de aplicar los descuentos correspondientes.
 
 Criterios de evaluación:
